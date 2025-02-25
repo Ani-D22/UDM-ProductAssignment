@@ -1,4 +1,4 @@
-**# OFBiz-ProductAssignment**
+# OFBiz-ProductAssignment
 
 ---
 
