@@ -1,5 +1,15 @@
 # UDM-ProductAssignment
 
+---
+
+**E-Commerce UI:**
+
+![image](https://github.com/user-attachments/assets/59430dbf-33d4-4ba1-964b-df80fdc1a12e)
+![image](https://github.com/user-attachments/assets/793bbf9a-b54b-4ec8-97ba-695e176f81d2)
+
+
+---
+
 **Product:**
 
 Product 1:
